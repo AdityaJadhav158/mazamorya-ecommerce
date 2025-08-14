@@ -1,2 +1,3 @@
 # mazamorya-ecommerce
+This is a fullstack project <br>
 Mazamorya is a specialized e-commerce platform dedicated to selling divine idols and spiritual items. This repository contains the complete backend built with Java, Spring Boot and MongoDB enabling powerful features like product management, user authentication, cart system, and order processing, etc...
